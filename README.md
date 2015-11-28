@@ -1,0 +1,1 @@
+# mojolicious-config-sample
